@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<h1> Zip Code Finder <h1/> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Home Page
+![home](https://user-images.githubusercontent.com/85200731/178175739-75064d2f-2c3e-4685-a474-3572d4ef02c1.png) 
 
-## Available Scripts
+Field to fill in a Zip Code
+![preencher](https://user-images.githubusercontent.com/85200731/178175753-374b08b0-657c-4e93-94a6-f9881483f26b.png) 
 
-In the project directory, you can run:
+Postcode search field
+![busca](https://user-images.githubusercontent.com/85200731/178175769-3e37a390-5d7a-470e-a325-d029f159714d.png) 
 
-### `npm start`
+Error message when fetching zip code
+![erro](https://user-images.githubusercontent.com/85200731/178175781-6e1a9cdc-1f4e-45d9-a8f6-f9688171fd56.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> Status: Finished⚠️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3> It's a web application planned to show Zip's Code from Brazil <h3/> 
 
-### `npm test`
+<h2> Some fields in main Model is:  <h2/> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
++ Home
++ Search Bar
++ Zip Code informations 
 
-### `npm run build`
+<h2> These features were developed: <h2/> 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Show the Search bar 
+- Show error alert
+- Show the message that needs to be filled in the field 
+- Show the zip code searched
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2> Technologies used: <h2/> 
+<table> 
+  <tr> 
+    <td> 
+      JavaScript
+    <td/> 
+    <td> 
+      HTML
+    <td/> 
+    <td> 
+      CSS
+    <td/>
+    <td>
+      React
+    <td/>
+  <tr/>
+  <tr> 
+    <td> 
+      ECMAScript 2018
+    <td/> 
+    <td> 
+      HTML5
+    <td/> 
+    <td> 
+      CSS3
+    <td/>
+    <td> 
+      React v17.0
+    <td/>
+  <tr/>
+<table/>
